@@ -1,0 +1,9 @@
+
+{
+  "appId": "com.miqdad.runnerworld",
+  "appName": "RUNNER WORLD",
+  "webDir": "www",
+  "server": {
+    "androidScheme": "https"
+  }
+}
